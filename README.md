@@ -48,6 +48,7 @@ Be cautious about unintended replication to avoid clutter or misuse.
 License
 This project is released under the MIT License. You are free to use, modify, and distribute this code, provided proper attribution is given.
 
+Support by visiting www.AshlanChidester.com and consider buying one of many great technical manuals.
 Disclaimer
 This program is designed for educational purposes only. The author assumes no responsibility for any misuse of this code, including its deployment on unauthorized networks or systems.
 
